@@ -1,0 +1,17 @@
+# Hasil build
+bin/
+obj/
+
+# File IDE
+.vs/
+.vscode/
+*.user
+
+# Database SQLite lokal (dibuat otomatis saat aplikasi jalan)
+*.db
+*.db-shm
+*.db-wal
+
+# OS
+.DS_Store
+Thumbs.db
