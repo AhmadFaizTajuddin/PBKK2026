@@ -1,5 +1,9 @@
 # Sistem Mahasiswa (C# / .NET)
 
+## Nama: Ahmad Faiz Tajuddin
+## NRP: 5025231291
+## Kelas: PBKK D
+
 Repositori ini berisi dua program C# yang saling berkaitan sebagai latihan
 bertahap: **SapaanKonsol** (program konsol sederhana) dan
 **PengelolaMahasiswa** (aplikasi desktop CRUD untuk data mahasiswa dengan
