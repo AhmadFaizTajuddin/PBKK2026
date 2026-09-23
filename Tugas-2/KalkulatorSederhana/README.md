@@ -1,3 +1,7 @@
+| Name           | NRP        | Kelas     |
+| :---:       | :---:     | :----------: |
+| Ahmad Faiz Tajuddin | 5025231291 | PBKK D |
+
 # Kalkulator Sederhana (Windows Forms + C#)
 
 Ini kalkulator desktop bergaya keypad — mirip kalkulator bawaan HP — yang dibuat mengikuti alur dari modul *Hand-on Lab: Kalkulator Desktop dengan C#*. Tapi kodenya ditulis ulang dari nol dengan gaya dan penamaan sendiri, bukan salin-tempel dari modul, dan ada beberapa fitur tambahan yang tidak ada di modulnya.
