@@ -1,3 +1,7 @@
+| Name           | NRP        | Kelas     |
+| :---:       | :---:     | :----------: |
+| Ahmad Faiz Tajuddin | 5025231291 | PBKK D |
+
 # Sistem Mahasiswa (C# / .NET)
 
 Repositori ini berisi dua program C# yang saling berkaitan sebagai latihan
